@@ -13,7 +13,7 @@ Historic version:
 
 All sets of CAD file of Bolt was open on the website lazydesigners.cn for users to customize. After Bolt clones were made by some ppl，and those clone users turned to us for customer service, we pulled off those files. 
 
-亚克力Bolt是2020年5月正式完成设计并开始制作的一款套件。目的是为了测试ergo形态并具备方向键的40配列是否具有可用性。  
+亚克力Bolt是LAZYDESIGNERS于2020年5月正式完成设计并开始制作的一款套件。目的是为了测试ergo形态并具备方向键的40配列是否具有可用性。  
 历史版本：
 * 第一个版本是与朋友分享的测试原型。
 * 第二个版本是正式出售版本。修改了配列，PCB是黄色阻焊，热插拔。定位板是镜面不锈钢并有一块不锈钢底板作为配重。 一共出货30套。
@@ -24,13 +24,20 @@ All sets of CAD file of Bolt was open on the website lazydesigners.cn for users 
 About the design of Bolt:
 * It's solely designed by LAZYDESIGNERS from scratch. 
 * Not a single Alice keyboard file has been used when designing Bolt. So It's not related to any Alice keyboard versions. 
-* It's using Atmega32U4 AU MCU, with 13 RGB Leds intoal, 9 for underglow, 4 for logo lighting. (Optional on solder version)
+* It's using Atmega32U4 AU MCU, with 13 RGB Leds in total, 9 for underglow, 4 for logo lighting. (Optional on solder version)
 * All Bolt kits have metal plate and stainless steel bottoms as weights to make the acrylic kits more practical to function as daily keyboards.
 
+关于亚克力Bolt的设计：
+* 所有设计由LAZYDESIGNERS自主单独完成。
+* 没有使用任何Alice的开源图纸，所以Bolt跟Alice任何版本之间并无关联。
+* 使用 Atmega32U4 AU作为主控，一共13颗RGB灯珠，9颗作为底灯，4颗logo灯。（焊接版本为可选）
+* 所有Bolt套件都具备金属定位板和不锈钢配重以保证日常使用下有比较好的打字体验。
+
 **** Important: Please fully read the instrution below before you want to do anything with these files! ****
+请注意：请在使用图纸之前完整阅读图纸使用指南
 
 Instrution of using files for building a Bolt:
-
+图纸使用指南
 Acrylic layers:
 1. Top layer
 2. Second layer
