@@ -48,7 +48,10 @@ Acrylic layers:
 | 5 | Bottom layer | 3mm |
 | 6 | Two feet layers | 5mm |  
 
-All those layers are mirrored in the dwg file, which means you are actually looking them from the bottom.
+* All those layers are mirrored in the dwg file, which means you are actually looking them from the bottom. It will have a better surface of each layer after laser cut.
+* In some area, the standard thickness is different to the actual thickness of acrylic layer. In China, 5mm thickness moudling acrylic plate has an actual thickness between 4.5-4.8mm. 3mm thickness moudling acrylic plate has an actual thickness between 2.7-2.8mm.
+* The top layer and the second layer are above the plate. The total height will add to 7.2mm, which just cover the lowest edge of some profile keycaps. 3X3mm could also be used if you want to fully cover the keycaps.
+* Port layer is the key part of 
 
 
 
