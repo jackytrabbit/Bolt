@@ -47,6 +47,7 @@ Acrylic layers:
 | 4 | Support layer | 5mm |
 | 5 | Bottom layer | 3mm |
 | 6 | Two feet layers | 5mm |  
+
 All those layers are mirrored in the dwg file, which means you are actually looking them from the bottom.
 
 
