@@ -33,11 +33,11 @@ About the design of Bolt:
 * 使用 Atmega32U4 AU作为主控，一共13颗RGB灯珠，9颗作为底灯，4颗logo灯。（焊接版本为可选）
 * 所有Bolt套件都具备金属定位板和不锈钢配重以保证日常使用下有比较好的打字体验。
 
-**** Important: Please fully read the instrution below before you want to do anything with these files! ****
+**** Important: Please fully read the instrution below before you want to do anything with these files! ****  
 请注意：请在使用图纸之前完整阅读图纸使用指南
 
 Instrution of using files for building a Bolt:
-图纸使用指南
+图纸使用指南  
 Acrylic layers:
 1. Top layer
 2. Second layer
