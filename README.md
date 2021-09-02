@@ -20,6 +20,7 @@ All sets of CAD file of Bolt was open on the website lazydesigners.cn for users 
 * 之后有些用户要求焊接定位板并希望进一步降低售价，所以第三个版本修改为黑色阻焊的焊接PCB，并默认不带RGB灯珠。定位板为了增加更多轴的适应性改为阳极铝，并保留了不锈钢板作为配重。一共50套。 
 
 为了方便用户定制更换，我们将全套图纸开放在我们的网站lazydesigners.cn上。当我们发现有些用户购买了使用我们图纸仿制并声称是Bolt的产品，并在不知情的情况下向我们寻求售后之后，我们从网站上撤下了图纸。  
+
 About the design of Bolt:
 * It's solely designed by LAZYDESIGNERS from scratch. 
 * Not a single Alice keyboard file has been used when designing Bolt. So It's not related to any Alice keyboard versions. 
