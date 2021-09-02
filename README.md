@@ -39,12 +39,15 @@ About the design of Bolt:
 Instrution of using files for building a Bolt:
 图纸使用指南  
 Acrylic layers:
-1. Top layer
-2. Second layer
-3. Port layer
-4. Support layer
-5. Bottom layer
-6. Two feet layers
+| No | Layer | Standard thickness |
+| :-----|  :----: | :----: |
+| 1 | Top layer | 5mm |
+| 2 | Second layer | 3mm |
+| 3 | Port layer | 5mm |
+| 4 | Support layer | 5mm |
+| 5 | Bottom layer | 3mm |
+| 6 | Two feet layers | 5mm |
+
 
 Plate
 
