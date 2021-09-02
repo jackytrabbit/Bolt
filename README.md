@@ -1,5 +1,6 @@
 # Bolt
 Acrylic layer case file for Bolt - A 40% ergo qmk keyboard
+
 ![logo](http://lazydesigners.cn/wp-content/uploads/2021/03/%E6%A0%87%E7%AD%BE-300x63.png)
 
 The acrylic Bolt is a project that LAZYDESIGNER started in May 2020. 
