@@ -14,7 +14,20 @@ About the design of Bolt:
 * It's using Atmega32U4 AU MCU, with 13 RGB Leds intoal, 9 for underglow, 4 for logo lighting. (Optional on solder version)
 * All Bolt kits have metal plate and stainless steel bottoms as weights to make the acrylic kits more practical to function as daily keyboards.
 
+Instrution of using file for building a Bolt:
 
+Acrylic layers:
+1. Top layer
+2. Second layer
+3. Port layer
+4. Support layer
+5. Bottom layer
+6. Two feet layers
+
+Plate
+
+
+Bottom 
 
 
 
