@@ -10,6 +10,7 @@ Historic version:
 * The first version is a prototype kit sharing with some friends.
 * The second version has been on sale in Auguest 2020. The layout has been adjusted. The PCB is yellow and with hotswap socket. The kit uses stainless steel plate and a piece of stainless steel as a weight. 30 kits are made in total for that version.
 * After that, some users requested solder PCB, and hoped for lower price. So the third version has been made. The PCB needs solder and no RGB leds by default. The kit uses anodized aluminum plate to add compatiblity to more switches but still keep the stainless steel weight. 50 kits were made in total.
+
 All sets of CAD file of Bolt was open on the website lazydesigners.cn for users to customize. After Bolt clones were made by some ppl，and those clone users turned to us for customer service, we pulled off those files. 
 
 亚克力Bolt是2020年5月正式完成设计并开始制作的一款套件。目的是为了测试ergo形态并具备方向键的40配列是否具有可用性。  
