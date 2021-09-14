@@ -51,16 +51,30 @@ Acrylic layers:
 * All those layers are mirrored in the dwg file, which means you are actually looking them from the bottom. It will have a better surface of each layer after laser cut.
 * In some area, the standard thickness is different to the actual thickness of acrylic layer. In China, 5mm thickness moudling acrylic plate has an actual thickness between 4.5-4.8mm. 3mm thickness moudling acrylic plate has an actual thickness between 2.7-2.8mm.
 * The top layer and the second layer are above the plate. The total height will add to 7.2mm, which just cover the lowest edge of some profile keycaps. 3X3mm could also be used if you want to fully cover the keycaps.
-* Port layer is the key part of 
+* Port layer is the key part of the layer case. Due to the size of the holes for screw studs, this layer could become deformed after laser cut. Please check it with the laser cut manufacturer first.
+* If you want to change the port layer to 3mm thickness, you have to use two. Then you can change support layer to 3mm too.
+* Bottom layer can be replaced be a metal plate as a weight. The OG Bolt has both.
+* Actually the feet layers can be change to any thickness you prefer. 
 
+Acrylic layers:
+| No | Layer | Standard thickness |
+| :----:|  :----: | :----: |
+| 1 | 顶层Top layer| 5mm |
+| 2 | 次顶层Second layer | 3mm |
+| 3 | 插口层Port layer | 5mm |
+| 4 | 支撑层Support layer | 5mm |
+| 5 | 底层Bottom layer | 3mm |
+| 6 | 脚垫层Two feet layers | 5mm |  
 
+* 图纸中所有层是镜像的，视角是从底部看。这样激光切割时候表面会平整些。
+* 很多地区亚克力厚度尺寸是与实际尺寸是有差别的。比如在中国，5mm浇筑板尺寸大约是4.5mm到4.8mm左右，3mm亚克力浇筑板实际厚度2.7mm到2.8mm。
+* 顶层和次顶层是定位板之上的层。按层叠浇筑板实际高度大约7.2毫米，基本能够到原厂键帽下缘。你也可以使用3层3mm厚的亚克力板。
+* 插口层是关键的一层。由于螺丝孔的尺寸较大，这层切割时候会产生变形。切割前请与切割厂商确认这个问题。
+* 如果你想把插口层变为3mm厚度，你需要两层插口层，这样的话你可以把支撑层改为3mm厚度。
+* 底层可以直接改为金属板的配重。Bolt本身既有亚克力板也有不锈钢配重。
+* 脚垫层可以根据需要更改任意厚度。
 
-Plate
-
-
-Bottom 
-
-
+Bottom
 
 
 
