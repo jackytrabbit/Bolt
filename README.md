@@ -1,6 +1,8 @@
 # Bolt
 Acrylic layer case file for Bolt - A 40% ergo qmk keyboard by LAZYDESIGNERS  
-本项目是LAZYDESIGNERS的Bolt套件的亚克力层叠外壳图纸
+**** Important: Please use those files with your own discretion. No guarantee that it works****  
+本项目是LAZYDESIGNERS的Bolt套件的亚克力层叠外壳图纸。
+开源CAD图纸请谨慎使用。LAZYDESIGNERS不做任何保证。
 
 ![logo](http://lazydesigners.cn/wp-content/uploads/2021/09/boltlogo-01-01.jpg)
 
@@ -74,7 +76,10 @@ Acrylic layers:
 * 底层可以直接改为金属板的配重。Bolt本身既有亚克力板也有不锈钢配重。
 * 脚垫层可以根据需要更改任意厚度。
 
-Bottom
+Bottom CAD file is for metal weight.
 
+About the plate:
+There are 4 RGB LEDs for logo lighting on Bolt OG PCB. Place a piece of white paper under the bolt logo area of the plate as a diffuse part. 
+原始Bolt PCB上有4个RGB灯珠作为logo灯。请在plate下方贴一张白纸作为匀光件。
 
 
