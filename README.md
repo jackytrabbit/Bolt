@@ -26,7 +26,7 @@ All sets of CAD file of Bolt was open on the website lazydesigners.cn for users 
 About the design of Bolt:
 * It's solely designed by LAZYDESIGNERS from scratch. 
 * Not a single Alice keyboard file has been used when designing Bolt. So It's not related to any Alice keyboard versions. 
-* It's using Atmega32U4 AU MCU, with 13 RGB Leds in total, 9 for underglow, 4 for logo lighting. (Optional on solder version)
+* It's using Atmega32U4 as MCU, with 13 RGB Leds in total, 9 for underglow, 4 for logo lighting. (Optional on solder version)
 * All Bolt kits have metal plate and stainless steel bottoms as weights to make the acrylic kits more practical to function as daily keyboards.
 
 关于亚克力Bolt的设计：
