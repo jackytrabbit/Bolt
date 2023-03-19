@@ -32,7 +32,7 @@ About the design of Bolt:
 关于亚克力Bolt的设计：
 * 所有设计由LAZYDESIGNERS自主单独完成。
 * 没有使用任何Alice的开源图纸，所以Bolt跟Alice任何版本之间并无关联。
-* 使用 Atmega32U4 AU作为主控，一共13颗RGB灯珠，9颗作为底灯，4颗logo灯。（焊接版本为可选）
+* 使用 Atmega32U4作为主控，一共13颗RGB灯珠，9颗作为底灯，4颗logo灯。（焊接版本为可选）
 * 所有Bolt套件都具备金属定位板和不锈钢配重以保证日常使用下有比较好的打字体验。
 
 **** Important: Please fully read the instrution below before you want to do anything with these files! ****  
